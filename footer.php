@@ -1,8 +1,9 @@
-<?php
+ï»¿<?php
 /*
-tady nìco píšu
 * 2007-2015 PrestaShop
 *
+jkn - nÄ›co jsem napsal
+
 * NOTICE OF LICENSE
 *
 * This source file is subject to the Open Software License (OSL 3.0)
