@@ -1,6 +1,9 @@
-<?php
+﻿<?php
 /*
-tady n�co p�u
+tady něco píšu
+
+JKN - UTF8
+
 * 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
