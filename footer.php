@@ -5,7 +5,7 @@ tady něco píšu
 JKN - UTF8
 
 * 2007-2015 PrestaShop
-*
+*sssss
 * NOTICE OF LICENSE
 *
 * This source file is subject to the Open Software License (OSL 3.0)
