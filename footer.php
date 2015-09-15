@@ -1,5 +1,6 @@
 <?php
 /*
+tady nìco píšu
 * 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
